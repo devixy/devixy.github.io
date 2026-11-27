@@ -1,0 +1,4 @@
+baseURL = 'https://devixy.github.io/'
+languageCode = 'zh-cn'
+title = 'rain1ce'
+theme = 'PaperMod'
